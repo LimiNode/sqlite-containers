@@ -142,7 +142,7 @@ int main() {
 
 This example shows how you can have multiple database tables, each working with different types of data, all in the same SQLite file.
 
-Several example use cases are provided in the [examples](https://github.com/NewYaroslav/sqlite-containers/tree/main/examples) folder of the repository.
+Several example use cases are provided in the [examples](https://github.com/LimiNode/sqlite-containers/tree/main/examples) folder of the repository.
 
 ## Documentation
 
